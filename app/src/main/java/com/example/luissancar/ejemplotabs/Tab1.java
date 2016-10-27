@@ -27,7 +27,7 @@ package com.example.luissancar.ejemplotabs;
 
         public View onCreateView(LayoutInflater inflater, ViewGroup container,  Bundle savedInstanceState) {
 
-            return inflater.inflate(R.layout.tab2, container, false);
+            return inflater.inflate(R.layout.tab1, container, false);
 
         }
 
